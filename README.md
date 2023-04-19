@@ -15,7 +15,7 @@ Insert gif or link to demo
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at chutimon1104@gmail.com
 
 
 ## 🚀 About Me
