@@ -1,0 +1,11 @@
+score = int(input())
+if score <15:
+    print("ยุวชน")
+elif score <=25:
+    print("เยาวชน")
+elif score <=40:
+    print("วัยทำงาน")
+elif score <60:
+    print("ผู้ใหญ๋")
+else :
+    print("ผู้สูงอายุ")
